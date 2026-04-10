@@ -15,3 +15,5 @@
         [Shubhi S]()
 
 ##Team Values: Communication, efficient work, maintaining quality of work, be kind to one another, collaboration
+
+![Kode Bryant jersey](images/kode-bryant-jersey.png)
