@@ -1,10 +1,10 @@
-#Team Name: **Kode Bryant**
+# Team Name: **Kode Bryant**
 
-##Team Roster:
-    ###Coaches (Team Leads)
+## Team Roster:
+    ### Coaches (Team Leads)
         [Itai Lavi](https://github.com/laviitai)
         Sam Z - 
-    ###Players (Team Members)
+    ### Players (Team Members)
         [Henry L](https://github.com/username0106)
         [Ethan M](https://github.com/ethanbanag) 
         [Simar G]() 
@@ -14,6 +14,6 @@
         [Ryan D](https://github.com/RyanDang363)
         [Shubhi S]()
 
-##Team Values: Communication, efficient work, maintaining quality of work, be kind to one another, collaboration
+## Team Values: Communication, efficient work, maintaining quality of work, be kind to one another, collaboration
 
 ![Kode Bryant jersey](images/kode-bryant-jersey.png)
