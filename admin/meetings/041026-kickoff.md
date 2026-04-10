@@ -11,14 +11,14 @@
 
 ---
 
-## 📅 Agenda
+## Agenda
 1. Team Introductions & Skills Assessment
 2. GitHub Organization Status
 3. Division of Labor for Sunday Deliverables
 
 ---
 
-## 🗣️ Discussion Points & Notes
+## Discussion Points & Notes
 
 **1. Team Introductions & Skills**
 * [cite_start]Soohwan, Ryan, and Shubhi introduced themselves to the group[cite: 2, 5, 18].
@@ -40,14 +40,14 @@
 
 ---
 
-## 🤝 Decisions Made
+## Decisions Made
 * [cite_start]**Meeting Notes:** The team agreed on transcription to capturing meeting notes going forward to save time and effort[cite: 25].
 * [cite_start]**Breakout Groups:** * *Contract Group (Room 1):* Sam, Janoj, Ryan, and Shubhi[cite: 46, 55].
   * [cite_start]*Branding Group (Room 2):* Itai, Soohwan, Henry, Ethan, and Simar[cite: 48, 55].
 
 ---
 
-## 🚀 Items for Future Investigation / Action Items
+## Items for Future Investigation / Action Items
 - [ ] [cite_start]Remaining members must check their UCSD emails and accept the GitHub organization invite[cite: 30, 32].
 - [ ] [cite_start]Set up the required folder structure in the GitHub repository[cite: 34].
 - [ ] [cite_start]Ensure everyone completes their required individual portions for the contract and branding assignments[cite: 51].
