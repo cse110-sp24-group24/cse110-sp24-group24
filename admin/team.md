@@ -23,4 +23,4 @@
 * Be kind to one another
 * Collaboration
 
-![Kode Bryant jersey](images/kode-bryant-jersey.png)
+![Kode Bryant jersey](../images/kode-bryant-jersey.png)
