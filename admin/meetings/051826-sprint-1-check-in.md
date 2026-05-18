@@ -3,7 +3,7 @@
 **Meeting Details**
 - **Type of Meeting:** Sprint 1 Check-In & Standup
 - **Date:** May 18, 2026
-- **Time:** 4:06 PM - 4:15 PM
+- **Time:** 4:00 PM - 4:30 PM
 - **Platform:** Zoom
 
 **Attendance**
